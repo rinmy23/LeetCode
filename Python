@@ -1,0 +1,6 @@
+some basic python:
+
+### String 
+1.single/2 quotation can mark for defining string
+2.negative index: like sequence, backward
+3.slicing,stride: like sequence, [s:e:steps]([s,e])
